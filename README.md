@@ -9,8 +9,8 @@ target transformation, and exporting the final CatBoost model.
 
 ## 📂 Project Files
 
-- **Data_Cleaning.py** — Data cleaning, missing value handling, feature engineering  
-- **Pipline.py** — ML preprocessing, pipelines, model training + evaluation  
+- **Data_Cleaning.ipynb** — Data cleaning, missing value handling, feature engineering  
+- **Pipline.ipynb** — ML preprocessing, pipelines, model training + evaluation  
 - **model.pkl** — Final trained model  
 - **cleaned_data.csv** — Cleaned dataset (generated from Data_Cleaning.py)  
 - **requirements.txt** — All required packages  
